@@ -7,9 +7,9 @@ var app = express();
 
 var mysqlConnection = mysql.createConnection({
   host: "sql6.freemysqlhosting.net",
-  user: "sql6418563",
-  password: "iaQRShVh9g",
-  database: "sql6418563",
+  user: "sql6418880",
+  password: "wqwM8fAi76",
+  database: "sql6418880",
   port: 3306
 });
 
